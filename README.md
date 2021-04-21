@@ -20,4 +20,4 @@ Clone the frontend code
 
 Take public ip of the server with 8080 port
 
-![Uploading todo frontend.png…]()
+![todo frontend](https://user-images.githubusercontent.com/82606369/115595124-303dab80-a2f4-11eb-8540-6efb75426ef3.png)
