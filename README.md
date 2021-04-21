@@ -10,5 +10,14 @@ Clone the frontend code
 
 #apt update
 
+#apt install npm
 
+#npm run-script build
 
+#npm install
+
+#npm start
+
+Take public ip of the server with 8080 port
+
+![Uploading todo frontend.png…]()
