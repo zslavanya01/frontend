@@ -28,9 +28,13 @@ In this page we updated required private ip's"
 
 Take public ip of the server with 8080 port
 
-The related screenshots are,
-![frontend](https://user-images.githubusercontent.com/82606369/116806394-56f8af00-ab4a-11eb-9aab-163b048e665d.png)
+The related screenshot are,
+![image](https://user-images.githubusercontent.com/82606369/116806453-b8b91900-ab4a-11eb-94f4-60036928ec82.png)
+
 ![image](https://user-images.githubusercontent.com/82606369/116806433-91624c00-ab4a-11eb-8c52-75a7d31508a2.png)
+
+![image](https://user-images.githubusercontent.com/82606369/116806461-c66e9e80-ab4a-11eb-97bb-818aaa296c67.png)
+
 
 
 
