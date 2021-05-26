@@ -1,10 +1,10 @@
-pipeline{
+pipeline {
     agent any
 
-    stages{
+    stages {
 
-        stage('prepare artifacts'){
-            steps{
+        stage ('prepare artifacts') {
+            steps {
                 sh '''
                   cd static
                   zip -r ../frontend.zip *
