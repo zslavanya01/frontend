@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        lable : java
+        label : java
     }
 
     stages {
