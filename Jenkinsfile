@@ -4,6 +4,13 @@ pipeline {
     }
 
     stages {
+        stage ('Download Dependencies') {
+            steps{
+                sh '''
+                  npm install
+                '''
+            }
+        }
 
         stage ('prepare artifacts') {
             steps {
