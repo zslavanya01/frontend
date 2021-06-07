@@ -31,6 +31,7 @@ In this page we updated required private ip's"
 # RELEASE 0.0.8 - DATE - 28-5-2021
 
 # RELEASE 0.0.9 - DATE - 28-5-2021
+# RELEASE 0.0.11 - DATE - 28-5-2021
 
 Take public ip of the server with 8080 port
 
