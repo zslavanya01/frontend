@@ -24,7 +24,7 @@ pipeline {
         stage('Upload Artifacts') {
             steps {
                 sh '''
-                  curl -v -u admin:admin123 --upload-file /var/lib/jenkins/workspace/CI-Pipelines/frontend.zip http://172.31.1.61:8081/repository/frontend/frontend.zip
+                  curl -f -v -u admin:admin123 --upload-file /var/lib/jenkins/workspace/CI-Pipelines/frontend.zip http://172.31.1.61:8081/repository/frontend/frontend.zip
                 '''
             }
         }
