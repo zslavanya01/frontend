@@ -27,7 +27,7 @@ In this page we updated required private ip's"
 #npm start
 
 :)..
-
+# Release
 
 Take public ip of the server with 8080 port
 
