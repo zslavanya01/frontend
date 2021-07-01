@@ -3,7 +3,7 @@
 todoapp (
     COMPONENT          :  'frontend',
     PROJECT_NAME       :  "Todoapp",
-    SLAVE_LABEL        :  "JAV",
+    SLAVE_LABEL        :  "JAVA",
     SKIP_NEXUS_UPLOAD  :  false,
     APP_TYPE           :  "NGINX"
 )
