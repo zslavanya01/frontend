@@ -30,7 +30,7 @@ In this page we updated required private ip's"
 # Release
 
 # Release
-
+# reknn
 
 Take public ip of the server with 8080 port
 
