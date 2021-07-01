@@ -29,6 +29,8 @@ In this page we updated required private ip's"
 :)..
 # Release
 
+# Release
+
 Take public ip of the server with 8080 port
 
 The related screenshot are,
